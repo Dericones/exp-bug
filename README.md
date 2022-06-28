@@ -1,5 +1,5 @@
 
-# Rocketseat Explorer Desafio 1
+# Rocketseat Explorer Desafio 2
 
 Desáfio desenvolvido durante o curso Explorer para reforçar os aprendizados sobre HTML5 e CSS3.
 
